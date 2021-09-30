@@ -1,0 +1,82 @@
+<backgroundlist>
+	<Background name="Dead Space">
+		<FILEPATH>Images\Backgrounds\Stages\1.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\1p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Gears ">
+		<FILEPATH>Images\Backgrounds\Stages\2.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\2p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Bioshok">
+		<FILEPATH>Images\Backgrounds\Stages\3.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\3p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Gears 3">
+		<FILEPATH>Images\Backgrounds\Stages\4.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\4p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Thif">
+		<FILEPATH>Images\Backgrounds\Stages\5.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\5p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Mater Chef">
+		<FILEPATH>Images\Backgrounds\Stages\6.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\6p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Doble AG">
+		<FILEPATH>Images\Backgrounds\Stages\7.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\7p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Big Dad">
+		<FILEPATH>Images\Backgrounds\Stages\8.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\8p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Dark Souls 2">
+		<FILEPATH>Images\Backgrounds\Stages\9.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\9p.png</PREVIEWPATH>
+	</Background>
+	<Background name="MW2">
+		<FILEPATH>Images\Backgrounds\Stages\10.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\10p.png</PREVIEWPATH>
+	</Background>
+	<Background name="AC4">
+		<FILEPATH>Images\Backgrounds\Stages\11.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\11p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Marcus">
+		<FILEPATH>Images\Backgrounds\Stages\12.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\12p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Gears 2">
+		<FILEPATH>Images\Backgrounds\Stages\13.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\13p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Halo 4">
+		<FILEPATH>Images\Backgrounds\Stages\14.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\14p.png</PREVIEWPATH>
+	</Background>
+	<Background name="AC3">
+		<FILEPATH>Images\Backgrounds\Stages\15.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\15p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Disonored">
+		<FILEPATH>Images\Backgrounds\Stages\16.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\16p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Isack">
+		<FILEPATH>Images\Backgrounds\Stages\17.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\17p.png</PREVIEWPATH>
+	</Background>
+	<Background name="Fisher">
+		<FILEPATH>Images\Backgrounds\Stages\18.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\18p.png</PREVIEWPATH>
+	</Background>
+	<Background name="BioShok 1">
+		<FILEPATH>Images\Backgrounds\Stages\19.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\19p.png</PREVIEWPATH>
+	</Background>
+	<Background name="BF">
+		<FILEPATH>Images\Backgrounds\Stages\20.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\20p.png</PREVIEWPATH>
+	</Background>
+</backgroundlist>

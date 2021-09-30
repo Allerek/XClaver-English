@@ -1,0 +1,102 @@
+<backgroundlist>
+	<Background name="Verde">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verde.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verde.png</PREVIEWPATH>
+	</Background>
+	<Background name="Verde Escuro">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verdeoscuro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verdeoscuro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Lima">
+		<FILEPATH>Images\Backgrounds\Wallpapers\lima.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\lima.png</PREVIEWPATH>
+	</Background>
+	<Background name="Ambar">
+		<FILEPATH>Images\Backgrounds\Wallpapers\ambar.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\ambar.png</PREVIEWPATH>
+	</Background>
+	<Background name="Laranja">
+		<FILEPATH>Images\Backgrounds\Wallpapers\naranja.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\naranja.png</PREVIEWPATH>
+	</Background>
+	<Background name="Vermelho">
+		<FILEPATH>Images\Backgrounds\Wallpapers\rojo.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\rojo.png</PREVIEWPATH>
+	</Background>
+	<Background name="Fandango">
+		<FILEPATH>Images\Backgrounds\Wallpapers\fandago.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\fandago.png</PREVIEWPATH>
+	</Background>
+	<Background name="Magenta">
+		<FILEPATH>Images\Backgrounds\Wallpapers\magenta.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\magenta.png</PREVIEWPATH>
+	</Background>
+	<Background name="Rosa">
+		<FILEPATH>Images\Backgrounds\Wallpapers\rosa.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\rosa.png</PREVIEWPATH>
+	</Background>
+	<Background name="Violeta">
+		<FILEPATH>Images\Backgrounds\Wallpapers\violeta.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\violeta.png</PREVIEWPATH>
+	</Background>
+	<Background name="Azul">
+		<FILEPATH>Images\Backgrounds\Wallpapers\azul.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\azul.png</PREVIEWPATH>
+	</Background>
+	<Background name="Azul Escuro">
+		<FILEPATH>Images\Backgrounds\Wallpapers\azuloscuro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\azuloscuro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Azul Violeta">
+		<FILEPATH>Images\Backgrounds\Wallpapers\azulvioleta.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\azulvioleta.png</PREVIEWPATH>
+	</Background>
+	<Background name="Cian">
+		<FILEPATH>Images\Backgrounds\Wallpapers\cian.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\cian.png</PREVIEWPATH>
+	</Background>
+	<Background name="Celeste">
+		<FILEPATH>Images\Backgrounds\Wallpapers\celeste.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\celeste.png</PREVIEWPATH>
+	</Background>
+	<Background name="Turquesa">
+		<FILEPATH>Images\Backgrounds\Wallpapers\turquesa.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\turquesa.png</PREVIEWPATH>
+	</Background>
+	<Background name="Verde azulado">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verdeazulado.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verdeazulado.png</PREVIEWPATH>
+	</Background>
+	<Background name="Dourado">
+		<FILEPATH>Images\Backgrounds\Wallpapers\dorado.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\dorado.png</PREVIEWPATH>
+	</Background>
+	<Background name="Gris">
+		<FILEPATH>Images\Backgrounds\Wallpapers\gris.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\gris.png</PREVIEWPATH>
+	</Background>
+	<Background name="Negro">
+		<FILEPATH>Images\Backgrounds\Wallpapers\negro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\negro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Transparente 1">
+		<FILEPATH>Images\Backgrounds\Wallpapers\t1.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\t1.png</PREVIEWPATH>
+	</Background>
+	<Background name="Transparente 2">
+		<FILEPATH>Images\Backgrounds\Wallpapers\t2.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\t2.png</PREVIEWPATH>
+	</Background>
+	<Background name="Transparente 3">
+		<FILEPATH>Images\Backgrounds\Wallpapers\t3.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\t3.png</PREVIEWPATH>
+	</Background>
+	<Background name="Transparente 4">
+		<FILEPATH>Images\Backgrounds\Wallpapers\t4.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\t4.png</PREVIEWPATH>
+	</Background>
+	<Background name="Transparente 5">
+		<FILEPATH>Images\Backgrounds\Wallpapers\t5.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\t5.png</PREVIEWPATH>
+	</Background>
+</backgroundlist>

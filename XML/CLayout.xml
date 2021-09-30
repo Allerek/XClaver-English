@@ -1,0 +1,647 @@
+<Coverflow>
+	<Count data="43" />
+	<Layout>
+		<CameraPos x="0" y="0.5" z="5" />
+		<CameraAim x="0" y="0" z="-2" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="5.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1.15" y="0" z="0" />
+		<LeftPos x="-1.15" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.5" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.45" y="0" z="0" />
+		<RightSpace x="0.45" y="0" z="0" />
+		<LeftAngle x="0" y="1.3" z="0" />
+		<RightAngle x="0" y="-1.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="9" />
+	</Layout>
+	<Layout>
+		<CameraPos x="-3" y="1.25" z="3.5" />
+		<CameraAim x="4" y="-1" z="-2" />
+		<RightPos x="0.45" y="0" z="0" />
+		<LeftPos x="-0.45" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.0" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.45" y="0" z="0" />
+		<RightSpace x="0.45" y="0" z="0" />
+		<LeftAngle x="0" y="-1.57" z="0" />
+		<RightAngle x="0" y="-1.57" z="0" />
+		<CenterAngle x="0" y="-1.57" z="0" />
+		<rowCenterAngle x="0" y="-1.57" z="0" />
+		<FadeFactor data="7.5" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1.15" y="0" z="0.25" />
+		<LeftPos x="-1.15" y="0" z="0.25" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.1" y="0" z="0" />
+		<RightSpace x="0.1" y="0" z="0" />
+		<LeftAngle x="0" y="-1.57" z="0" />
+		<RightAngle x="0" y="-1.57" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="18" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="-1.2" />
+		<RightSpace x="1" y="0" z="-1.2" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="7.8" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="8" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="4.7" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.5" y="0" z="1" />
+		<RightSpace x="0.5" y="0" z="1" />
+		<LeftAngle x="0" y="1" z="0" />
+		<RightAngle x="0" y="-1" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.95" y="0" z="0" />
+		<RightSpace x="0.95" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="-3.15" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="-5" />
+		<LeftPos x="-1" y="0" z="1" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="-5" />
+		<LeftPos x="-1" y="0" z="-5" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="1.25" />
+		<LeftPos x="-1" y="0" z="1.25" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="6.3" z="0" />
+		<RightAngle x="0" y="-6.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="4" y="0" z="4" />
+		<LeftPos x="6.6" y="0" z="-5.5" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0.4" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="6.3" z="0" />
+		<RightAngle x="0" y="-6.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="-8.3" y="0" z="-4" />
+		<LeftPos x="-8.3" y="0" z="-6" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="6.3" z="0" />
+		<RightAngle x="0" y="6.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="-3.5" y="0" z="-1" />
+		<LeftPos x="1.5" y="0" z="0.2" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="1" y="0" z="-0.4" />
+		<RightSpace x="1" y="0" z="-0.6" />
+		<LeftAngle x="0" y="6.3" z="0" />
+		<RightAngle x="0" y="6.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="7.7" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="0.46" y="0" z="0.79" />
+		<LeftPos x="-0.525" y="0" z="0.79" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="0" z="-2" />
+		<RightSpace x="0" y="0" z="-2" />
+		<LeftAngle x="0" y="-1.5" z="0" />
+		<RightAngle x="0" y="-1.5" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="5" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1.3" y="-0.58" z="0" />
+		<LeftPos x="-1.3" y="-0.58" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.13" y="0.1" z="0" />
+		<RightSpace x="0.13" y="0.1" z="0" />
+		<LeftAngle x="6.3" y="-1.57" z="-1.57" />
+		<RightAngle x="6.3" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="2.5" z="4.2" />
+		<CameraAim x="0" y="2" z="-1" />
+		<RightPos x="1.8" y="0.95" z="0" />
+		<LeftPos x="-1.8" y="0.95" z="0" />
+		<CenterPos x="0" y="1.95" z="1" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="0.1" z="0" />
+		<RightSpace x="0" y="0.1" z="0" />
+		<LeftAngle x="0" y="-1.57" z="-1.57" />
+		<RightAngle x="0" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="2.5" z="4.2" />
+		<CameraAim x="0" y="2" z="-1" />
+		<RightPos x="1.8" y="1.7" z="0" />
+		<LeftPos x="-1.8" y="1.7" z="0" />
+		<CenterPos x="0" y="1.95" z="1" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="-0.1" z="0" />
+		<RightSpace x="0" y="-0.1" z="0" />
+		<LeftAngle x="6.3" y="-1.57" z="-1.57" />
+		<RightAngle x="6.3" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="2.5" z="4.5" />
+		<CameraAim x="0" y="2" z="-1" />
+		<RightPos x="-1.8" y="1.8" z="0" />
+		<LeftPos x="-1.8" y="1.6" z="0" />
+		<CenterPos x="0" y="1.95" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="-0.1" z="0" />
+		<RightSpace x="0" y="0.1" z="0" />
+		<LeftAngle x="0" y="-1.57" z="-1.57" />
+		<RightAngle x="0" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="2.5" z="4.5" />
+		<CameraAim x="0" y="2" z="-1" />
+		<RightPos x="-1.8" y="1.5" z="0" />
+		<LeftPos x="-1.8" y="1.7" z="0" />
+		<CenterPos x="0" y="1.95" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="0.1" z="0" />
+		<RightSpace x="0" y="-0.1" z="0" />
+		<LeftAngle x="0" y="-1.57" z="-1.57" />
+		<RightAngle x="0" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="2.5" z="4.5" />
+		<CameraAim x="0" y="2" z="-1" />
+		<RightPos x="-1.7" y="2" z="0.1" />
+		<LeftPos x="-1.7" y="2.2" z="0" />
+		<CenterPos x="0" y="1.95" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="0" y="0.12" z="-0.19" />
+		<RightSpace x="0" y="-0.12" z="0.19" />
+		<LeftAngle x="0" y="-1.57" z="-1.57" />
+		<RightAngle x="0" y="-1.57" z="-1.57" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="5" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0.1" z="0" />
+		<LeftPos x="-1" y="0.1" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="-0.3" />
+		<RightSpace x="1" y="0" z="-0.3" />
+		<LeftAngle x="6.3" y="0.3" z="-0.9" />
+		<RightAngle x="6.3" y="0.3" z="0.9" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0.1" z="0" />
+		<LeftPos x="-1" y="0.1" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="-0.3" />
+		<RightSpace x="1" y="0" z="-0.3" />
+		<LeftAngle x="0" y="0.3" z="-7.2" />
+		<RightAngle x="0" y="0.3" z="7.2" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.3" y="0" z="-0.25" />
+		<RightSpace x="0.3" y="0" z="-0.25" />
+		<LeftAngle x="0" y="-1.57" z="0" />
+		<RightAngle x="0" y="-1.57" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="18" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="10.5" z="4.5" />
+		<CameraAim x="0" y="10" z="-1" />
+		<RightPos x="1" y="12.8" z="-10" />
+		<LeftPos x="-1" y="4.45" z="-10" />
+		<CenterPos x="0" y="10" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="-6.3" y="0" z="0" />
+		<RightAngle x="6.3" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="7.5" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="10.5" z="4.5" />
+		<CameraAim x="0" y="10" z="-1" />
+		<RightPos x="1" y="4.45" z="-10" />
+		<LeftPos x="-1" y="4.45" z="-10" />
+		<CenterPos x="0" y="10" z="1.2" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="-6.3" y="0" z="0" />
+		<RightAngle x="-6.3" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="7.5" />
+	</Layout>
+                   	<Layout>
+		<CameraPos x="0" y="0.5" z="5" />
+		<CameraAim x="0" y="0" z="-2" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="5.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1.15" y="0" z="0" />
+		<LeftPos x="-1.15" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.5" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.45" y="0" z="0" />
+		<RightSpace x="0.45" y="0" z="0" />
+		<LeftAngle x="0" y="1.3" z="0" />
+		<RightAngle x="0" y="-1.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="9" />
+	</Layout>
+	<Layout>
+		<CameraPos x="-3" y="1.25" z="3.5" />
+		<CameraAim x="4" y="-1" z="-2" />
+		<RightPos x="0.45" y="0" z="0" />
+		<LeftPos x="-0.45" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.0" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.45" y="0" z="0" />
+		<RightSpace x="0.45" y="0" z="0" />
+		<LeftAngle x="0" y="-1.57" z="0" />
+		<RightAngle x="0" y="-1.57" z="0" />
+		<CenterAngle x="0" y="-1.57" z="0" />
+		<rowCenterAngle x="0" y="-1.57" z="0" />
+		<FadeFactor data="7.5" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1.15" y="0" z="0.25" />
+		<LeftPos x="-1.15" y="0" z="0.25" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.1" y="0" z="0" />
+		<RightSpace x="0.1" y="0" z="0" />
+		<LeftAngle x="0" y="-1.5" z="0" />
+		<RightAngle x="0" y="-1.5" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="23" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="2.8" z="-10" />
+		<LeftPos x="-1" y="-5.55" z="-10" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0.2" z="-1" />
+		<RightSpace x="1" y="0.2" z="-1" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="-1.2" />
+		<RightSpace x="1" y="0" z="-1.2" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="8" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="4.7" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.5" y="0" z="1" />
+		<RightSpace x="0.5" y="0" z="1" />
+		<LeftAngle x="0" y="1" z="0" />
+		<RightAngle x="0" y="-1" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0.4" z="-1" />
+		<RightSpace x="1" y="-0.7" z="-1" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="-8.3" y="2.8" z="-10" />
+		<LeftPos x="-8.3" y="-5.55" z="-10" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="50" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="-5.55" z="-10" />
+		<LeftPos x="-1" y="-5.55" z="-10" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="0" />
+		<RightSpace x="1" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="20" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="-5.55" z="-10" />
+		<LeftPos x="-1" y="-5.55" z="-10" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-1" y="0" z="-0.6" />
+		<RightSpace x="1" y="0" z="-0.6" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="25" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.95" y="0" z="0" />
+		<RightSpace x="0.95" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="-3.15" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="-5" />
+		<LeftPos x="-1" y="0" z="1" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="-5" />
+		<LeftPos x="-1" y="0" z="-5" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="1.25" />
+		<LeftPos x="-1" y="0" z="1.25" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="0" z="0" />
+		<RightAngle x="0" y="0" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
+	<Layout>
+		<CameraPos x="0" y="0.5" z="4.5" />
+		<CameraAim x="0" y="0" z="-1" />
+		<RightPos x="1" y="0" z="0" />
+		<LeftPos x="-1" y="0" z="0" />
+		<CenterPos x="0" y="0" z="1.3" />
+		<rowCenterPos x="0" y="0" z="0" />
+		<LeftSpace x="-0.93" y="0" z="0" />
+		<RightSpace x="0.93" y="0" z="0" />
+		<LeftAngle x="0" y="6.3" z="0" />
+		<RightAngle x="0" y="-6.3" z="0" />
+		<CenterAngle x="0" y="0" z="0" />
+		<rowCenterAngle x="0" y="0" z="0" />
+		<FadeFactor data="15" />
+	</Layout>
